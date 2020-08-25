@@ -1,2 +1,2 @@
-Find Robot made with React
+Find Robo with React
 

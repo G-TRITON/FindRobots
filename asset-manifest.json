@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/FindRobots/static/css/main.6243c195.chunk.css",
-    "main.js": "/FindRobots/static/js/main.bc851502.chunk.js",
-    "main.js.map": "/FindRobots/static/js/main.bc851502.chunk.js.map",
+    "main.js": "/FindRobots/static/js/main.b930013a.chunk.js",
+    "main.js.map": "/FindRobots/static/js/main.b930013a.chunk.js.map",
     "runtime-main.js": "/FindRobots/static/js/runtime-main.b1a38832.js",
     "runtime-main.js.map": "/FindRobots/static/js/runtime-main.b1a38832.js.map",
     "static/css/2.3c03f26f.chunk.css": "/FindRobots/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.89f77d85.chunk.js": "/FindRobots/static/js/2.89f77d85.chunk.js",
-    "static/js/2.89f77d85.chunk.js.map": "/FindRobots/static/js/2.89f77d85.chunk.js.map",
+    "static/js/2.d9fba7e1.chunk.js": "/FindRobots/static/js/2.d9fba7e1.chunk.js",
+    "static/js/2.d9fba7e1.chunk.js.map": "/FindRobots/static/js/2.d9fba7e1.chunk.js.map",
     "index.html": "/FindRobots/index.html",
-    "precache-manifest.01716a417aece4d493b05db84fac0584.js": "/FindRobots/precache-manifest.01716a417aece4d493b05db84fac0584.js",
+    "precache-manifest.e256e0133dc3249c832ce30b5e6526f1.js": "/FindRobots/precache-manifest.e256e0133dc3249c832ce30b5e6526f1.js",
     "service-worker.js": "/FindRobots/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/FindRobots/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.6243c195.chunk.css.map": "/FindRobots/static/css/main.6243c195.chunk.css.map",
-    "static/js/2.89f77d85.chunk.js.LICENSE.txt": "/FindRobots/static/js/2.89f77d85.chunk.js.LICENSE.txt",
+    "static/js/2.d9fba7e1.chunk.js.LICENSE.txt": "/FindRobots/static/js/2.d9fba7e1.chunk.js.LICENSE.txt",
     "static/media/app.css": "/FindRobots/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.b1a38832.js",
     "static/css/2.3c03f26f.chunk.css",
-    "static/js/2.89f77d85.chunk.js",
+    "static/js/2.d9fba7e1.chunk.js",
     "static/css/main.6243c195.chunk.css",
-    "static/js/main.bc851502.chunk.js"
+    "static/js/main.b930013a.chunk.js"
   ]
 }
